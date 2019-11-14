@@ -1,0 +1,12 @@
+Work done on pages
+
+index.html
+properties.html
+
+index.css
+custom.css
+properties.css
+
+
+
+Mohammad Aftab - 8329567
